@@ -14,7 +14,7 @@ console.log(**number);
 */
 
 ​let number = 1;
-console.log(number++); //вывед 1 и  изменится на 2
-console.log(++number); //вывед 3 и измен 3
-console.log(number--); //вывед 3 и измен на 2
-console.log(--number); //вывед 
+console.log(number++); 
+console.log(++number); 
+console.log(number--); 
+console.log(--number); 
