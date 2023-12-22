@@ -19,7 +19,6 @@ const users2 = [
   },
 ];
 
-// К массиву users2 добавь новый объект​
 const newObj = {
   id: 4,
   user: "Ivan",
