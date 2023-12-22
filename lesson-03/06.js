@@ -30,5 +30,5 @@ const users3 = [
     address: "321 Hickory St",
   },
 ];
-//Пора всех жителей массива users3 женить. Добавь в каждый объект ключ-значение isMarried: true. Полученный результат выведи в консоль
+
 console.log(users3.map((el) => ({ ...el, isMarried: true })));
