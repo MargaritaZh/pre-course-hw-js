@@ -3,4 +3,5 @@
   [11, 20, 33, 40, 55],
   [111, 200, 333, 400, 555],
 ];
-console.log(numbers.map(row=>row.filter(num=>num%2===0)))
+let newArr=numbers.map(row=>row.filter(num=>num%2===0));
+console.log(newArr);
